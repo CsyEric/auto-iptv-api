@@ -1,12 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://live.hacks.tools/tv/iptv6.txt
-https://live.hacks.tools/tv/iptv4.txt
+# 易发：歌华有线，央视和卫视闪播源
+https://github.com/fafa002/yf2025/blob/main/yiyifafa.txt
+
+# 裤佬：[A三网]央卫视直播，央视和卫视闪播源
+https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/Jsnzkpg1.m3u
