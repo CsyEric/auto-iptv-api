@@ -1,1 +1,2 @@
-Thrill,https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+CHC高清电影,http://111.167.35.107:5002/udp/225.1.1.214:5002
+CHC高清电影,http://115.58.150.49:7000/rtp/225.1.4.207:1260
