@@ -2,9 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 
 # 易发：歌华有线，央视和卫视闪播源
-“https://github.com/fafa002/yf2025/blob/main/yiyifafa.txtt”
+https://github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 
 # 裤佬：[A三网]央卫视直播，央视和卫视闪播源
-“https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/Jsnzkpg1.m3uu”
-
-https://tonkiang.us/
+https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/Jsnzkpg1.m3u
